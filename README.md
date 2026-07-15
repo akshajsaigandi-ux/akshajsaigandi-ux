@@ -203,9 +203,9 @@ Designed and simulated a Leaky Integrate-and-Fire (LIF) neuron architecture for 
 ## 📄 Resume
 
 <p align="center">
-
-<a href="https://raw.githubusercontent.com/akshajsaigandi-ux/akshajsaigandi-ux/main/resume/Akshaj_Gandi_Resume.pdf" target="_blank">
-
+<a href="https://github.com/akshajsaigandi-ux/akshajsaigandi-ux/raw/main/resume/Akshaj_Gandi_Resume.pdf">
+<img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
+</a>
 </p>
 
 ---
