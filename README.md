@@ -14,7 +14,7 @@ RTL Design • FPGA Design • Computer Architecture • VLSI
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 B.Tech in Electronics & Communication Engineering
 - 🏫 SRM Institute of Science and Technology, Tiruchirappalli
