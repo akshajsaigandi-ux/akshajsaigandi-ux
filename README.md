@@ -159,15 +159,6 @@ Designed and simulated a Leaky Integrate-and-Fire (LIF) neuron architecture for 
 
 ---
 
-<!--
-## 📈 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshajsaigandi-ux&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshajsaigandi-ux&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
--->
-
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -175,16 +166,6 @@ Designed and simulated a Leaky Integrate-and-Fire (LIF) neuron architecture for 
 <img src="https://streak-stats.demolab.com?user=akshajsaigandi-ux&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-<!--
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=akshajsaigandi-ux&theme=tokyonight"/>
-</p>
--->
 
 ---
 
